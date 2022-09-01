@@ -1,7 +1,5 @@
 <h1>~Web_Studio~</h1>
 
-Project
-
 "A1" Used by SASS preprocesses.
 
 "A2" In the index.html and portfolio.html files, the minified style file main.min.css from the css folder is included.
